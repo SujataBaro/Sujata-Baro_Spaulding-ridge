@@ -1,0 +1,301 @@
+﻿Emplyoee_ID,Name,Role,Location,YoE,L3Q Average Self Rating,L3Q Average Manager Rating
+1,Aditi Khanna,Analyst,Jaipur,1-2,5,5
+2,Pooja Kaur,Senior Analyst,Banglore,2-3,5,5
+3,Kajal Mehta,Analyst,Banglore,1-2,5,5
+4,Amaya Joshi,Analyst,Jaipur,0-1,4,4
+5,Bilal Kulkarni,Associate,Jaipur,3-4,4,4
+6,Girish Reddy,Analyst,Pune,1-2,4,4
+7,Esha Dhillon,Analyst,Pune,1-2,4,4
+8,Kashi Nair,Analyst,Banglore,1-2,5,5
+9,Himanshu Dhillon,Senior Analyst,Pune,2-3,4,4
+10,Hetal Bhatia,Senior Analyst,Pune,2-3,4,4
+11,Anusha Verma,Analyst,Jaipur,1-2,5,5
+12,Mukta Iyer,Analyst,Banglore,1-2,4,4
+13,Hari Menon,Analyst,Pune,0-1,5,4
+14,Jai Menon,Senior Associate,Pune,6-7,4,4
+15,Kalpana Sharma,Analyst,Banglore,1-2,4,4
+16,Leena Verma,Analyst,Banglore,1-2,4,4
+17,Arvind Sinha,Senior Analyst,Jaipur,2-3,4,4
+18,Anshul Gupta,Analyst,Jaipur,1-2,5,5
+19,Devi Menon,Senir Associate,Jaipur,1-2,4,4
+20,Farhan Gupta,Analyst,Pune,,5,5
+21,Rajeshwari Joshi,Associate,Banglore,3-4,4,4
+22,Damodar Kumar,Associate,Jaipur,4-5,5,5
+23,Om Sinha,Senior Analyst,Banglore,2-3,5,5
+24,Kunal Kaur,Analyst,Banglore,0-1,5,5
+25,Nishant Reddy,Senior Analyst,Banglore,2-3,4.5,3
+26,Gowri Iyer,Analyst,Pune,1-2,4,4
+27,Akshita Verma,Analyst,Jaipur,0-1,4,4
+28,Renu Gupta,Senior Associate,Banglore,5-6,4,4
+29,Mira Verma,Analyst,Banglore,0-1,4,4
+30,Chhavi Mehta,Associate,Jaipur,4-5,5,5
+31,Manasi Kulkarni,Analyst,Banglore,1-2,5,5
+32,Kiran Banerjee,Analyst,Banglore,1-2,4,3
+33,Farah Mehta,Analyst,Pune,0-1,4,3
+34,Kala Gupta,Analyst,Banglore,0-1,4,4
+35,Aayush Verma,Analyst,Jaipur,0-1,4,4
+36,Akanksha Mehta,Analyst,Jaipur,1-2,4,4
+37,Lohit Reddy,Analyst,Banglore,1-2,5,5
+38,Jayesh Chowdhury,Analyst,Banglore,0-1,5,4
+39,Nirmala Verma,Senior Analyst,Banglore,2-3,4,4
+40,Alka Reddy,Analyst,Jaipur,0-1,4,4
+41,Praveen Joshi,Senior Analyst,Banglore,2-3,4,4
+42,Anisha Chowdhury,Analyst,Jaipur,0-1,4,4
+43,Prema Khanna,Associate,Banglore,3-4,4,4
+44,Pritha Sinha,Associate,Banglore,4-5,5,5
+45,Karthika Joshi,Analyst,Banglore,0-1,5,4
+46,Kalyani Patel,Analyst,Banglore,0-1,4,3
+47,Bindiya Pillai,Associate,Jaipur,4-5,4,4
+48,Annapurna Mehta,Analyst,Jaipur,0-1,4,4
+49,Niraj Kumar,Senior Analyst,Banglore,2-3,5,3
+50,Nila Patel,Senior Analyst,Banglore,2-3,5,5
+51,Bhanu Kapoor,Senior Analyst,Jaipur,2-3,5,5
+52,Deepali Joshi,Senir Associate,Jaipur,,4,4
+53,Poornima Mehta,Senior Analyst,Banglore,2-3,4,4
+54,Manju Kaur,Analyst,Banglore,1-2,4,4
+55,Rajesh Kapoor,Associate,Banglore,4-5,5,5
+56,Kamala Kumar,Analyst,Banglore,1-2,4,4
+57,Reena Dhillon,Senior Associate,Banglore,5-6,5,5
+58,Gayathri Kumar,Analyst,Pune,0-1,5,4
+59,Archana Reddy,Analyst,Jaipur,1-2,5,5
+60,Devang Iyer,Senir Associate,Jaipur,,5,5
+61,Rati Rao,Senior Associate,Banglore,5-6,4,4
+62,Bala Verma,Senior Analyst,Jaipur,2-3,4,4
+63,Atul Bhatia,Senior Analyst,Jaipur,2-3,4,4
+64,Astha Banerjee,Senior Analyst,Jaipur,2-3,5,5
+65,Hima Kaur,Senior Analyst,Pune,2-3,4,4
+66,Aarya Reddy,Analyst,Jaipur,1-2,4,4
+67,Ravi Bhatia,Senior Associate,Banglore,6-7,5,5
+68,Jyoti Kaur,Analyst,Banglore,0-1,5,5
+69,Namrata Kulkarni,Analyst,Banglore,1-2,4,4
+70,Abhilasha Kapoor,Analyst,Jaipur,1-2,4,4
+71,Anmol Dhillon,Analyst,Jaipur,1-2,5,5
+72,Ajit Dhillon,Analyst,Jaipur,0-1,5,5
+73,Nishita Kapoor,Senior Analyst,Banglore,2-3,4,3
+74,Nitesh Nair,Senior Analyst,Banglore,2-3,4,4
+75,Arun Iyer,Senior Analyst,Jaipur,2-3,4,4
+76,Arjun Joshi,Senior Analyst,Jaipur,1-2,4,4
+77,Nitya Menon,Senior Analyst,Banglore,1-2,4,4
+78,Indira Kumar,Associate,Pune,3-4,5,5
+79,Hrithik Gupta,Senior Analyst,Pune,1-2,4,4
+80,Nalini Sinha,Analyst,Banglore,0-1,5,5
+81,Chandni Kaur,Associate,Jaipur,2-3,4,3
+82,Avinash Dhillon,Senior Analyst,Jaipur,2-3,4,4
+83,Inderjit Patel,Associate,Pune,2-3,4,4
+84,Rani Khanna,Manager,Banglore,8-9,4,4
+85,Akash Gupta,Analyst,Jaipur,0-1,4,4
+86,Anuj Sharma,Analyst,Jaipur,0-1,5,5
+87,Punit Bhatia,Associate,Banglore,4-5,5,3
+88,Mehul Kumar,Analyst,Banglore,1-2,5,5
+89,Pratyush Kapoor,Senior Analyst,Banglore,2-3,4,4
+90,Harshita Chowdhury,Senior Analyst,Pune,2-3,4,4
+91,Bhoomi Menon,Associate,Jaipur,2-3,4,4
+92,Manish Chowdhury,Analyst,Banglore,1-2,4,4
+93,Lata Sharma,Analyst,Banglore,0-1,4,4
+94,Madhuri Nair,Analyst,Banglore,0-1,4,4
+95,Poonam Dhillon,Senior Analyst,Banglore,2-3,5,3
+96,Anita Banerjee,Analyst,Jaipur,1-2,5,5
+97,Prem Menon,Associate,Banglore,2-3,4,4
+98,Ranjeet Kulkarni,Senior Associate,Banglore,4-5,5,5
+99,Chinmay Gupta,Associate,Jaipur,3-4,5,5
+100,Rahul Kumar,Associate,Banglore,4-5,4,4
+101,Abhijeet Nair,Analyst,Jaipur,0-1,5,5
+102,Chandan Bhatia,Associate,Jaipur,4-5,5,5
+103,Hiral Mehta,Senior Analyst,Pune,2-3,4,3
+104,Barkha Reddy,Senior Analyst,Jaipur,2-3,4,4
+105,Radhika Sharma,Associate,Banglore,4-5,4,4
+106,Akhil Sharma,Analyst,Jaipur,1-2,4,4
+107,Ketan Pillai,Analyst,Banglore,1-2,4,3
+108,Harini Khanna,Analyst,Pune,1-2,4,4
+109,Jagadish Nair,Senior Associate,Pune,4-5,4,4
+110,Mohini Joshi,Analyst,Banglore,1-2,5,5
+111,Akshay Kumar,Analyst,Jaipur,1-2,5,5
+112,Isha Singh,Associate,Pune,3-4,5,5
+113,Abhay Singh,Analyst,Jaipur,1-2,4,4
+114,Naina Khanna,Analyst,Banglore,1-2,5,5
+115,Anil Pillai,Analyst,Jaipur,1-2,4,4
+116,Neeraj Dhillon,Senior Analyst,Banglore,2-3,4,4
+117,Lochana Singh,Analyst,Banglore,0-1,4,4
+118,Meena Sharma,Analyst,Banglore,1-2,5,5
+119,Nanda Pillai,Analyst,Banglore,0-1,4,4
+120,Manisha Banerjee,Analyst,Banglore,0-1,4,4
+121,Diya Rao,Analyst,Pune,0-1,4,4
+122,Kirti Rao,Analyst,Banglore,0-1,5,4
+123,Malati Khanna,Analyst,Banglore,1-2,4,4
+124,Kavya Menon,Analyst,Banglore,1-2,5,3
+125,Agni Chowdhury,Analyst,Jaipur,1-2,4,4
+126,Damini Verma,Manager,Jaipur,7-8,4,4
+127,Amitabh Menon,Analyst,Jaipur,1-2,5,5
+128,Ishita Joshi,Associate,Pune,4-5,5,5
+129,Drishti Bhatia,Analyst,Pune,1-2,5,5
+130,Jayant Kulkarni,Analyst,Banglore,0-1,5,5
+131,Mayank Gupta,Analyst,Banglore,0-1,5,5
+132,Rakesh Menon,Manager,Banglore,9-10,4,4
+133,Raj Verma,Associate,Banglore,3-4,4,4
+134,Gita Kapoor,Analyst,Pune,0-1,5,4
+135,Pratibha Verma,Senior Analyst,Banglore,1-2,4,4
+136,Jitendra Bhatia,Analyst,Banglore,1-2,5,5
+137,Balraj Singh,Senior Analyst,Jaipur,2-3,4,3
+138,Dhaval Pillai,Analyst,Pune,1-2,4,4
+139,Leela Kumar,Analyst,Banglore,0-1,5,4
+140,Ahana Banerjee,Analyst,Jaipur,0-1,5,5
+141,Mitra Singh,Analyst,Banglore,0-1,4,4
+142,Manav Pillai,Analyst,Banglore,0-1,4,4
+143,Ashok Chowdhury,Senior Analyst,Jaipur,1-2,5,5
+144,Anjali Rao,Analyst,Jaipur,0-1,5,5
+145,Anand Sinha,Analyst,Jaipur,1-2,5,5
+146,Kamini Singh,Analyst,Banglore,1-2,4,4
+147,Pallavi Pillai,Senior Analyst,Banglore,2-3,5,5
+148,Kushan Dhillon,Analyst,Banglore,1-2,4,4
+149,Mahendra Iyer,Analyst,Banglore,1-2,4,4
+150,Rajat Reddy,Associate,Banglore,3-4,4,4
+151,Jigar Rao,Analyst,Banglore,0-1,4,4
+152,Nikita Sharma,Senior Analyst,Banglore,2-3,5,3.5
+153,Azad Kumar,Senior Analyst,Jaipur,1-2,5,5
+154,Hema Banerjee,Senior Analyst,Pune,2-3,4,4
+155,Dhanya Kulkarni,Analyst,Pune,0-1,4,4
+156,Ranjana Sinha,Manager,Banglore,9-10,4,4
+157,Ayush Patel,Senior Analyst,Jaipur,2-3,5,5
+158,Mohan Kapoor,Analyst,Banglore,0-1,5,5
+159,Mukesh Nair,Analyst,Banglore,0-1,5,4
+160,Chitrangada Patel,Associate,Jaipur,3-4,5,5
+161,Durga Kaur,Analyst,Pune,0-1,5,5
+162,Megha Patel,Analyst,Banglore,0-1,4,4
+163,Ayesha Sharma,Senior Analyst,Jaipur,2-3,4,4
+164,Arnav Nair,Senior Analyst,Jaipur,2-3,5,5
+165,Gopal Nair,Analyst,Pune,0-1,4,4
+166,Priyanka Chowdhury,Associate,Banglore,3-4,4,4
+167,Divya Banerjee,Analyst,Pune,1-2,5,5
+168,Purva Dhillon,Associate,Banglore,3-4,5,5
+169,Bipin Chowdhury,Associate,Jaipur,3-4,4,4
+170,Dhruv Chowdhury,Analyst,Pune,0-1,5,5
+171,Prabhakar Gupta,Senior Analyst,Banglore,2-3,4,4
+172,Neha Mehta,Senior Analyst,Banglore,2-3,4,4
+173,Rajani Singh,Associate,Banglore,4-5,4,4
+174,Prajwal Kumar,Senior Analyst,Banglore,2-3,4,4
+175,Rashmi Chowdhury,Senior Associate,Banglore,6-7,5,5
+176,Gitanjali Joshi,Analyst,Pune,1-2,4,4
+177,Manjari Rao,Analyst,Banglore,1-2,4,4
+178,Parvati Rao,Senior Analyst,Banglore,2-3,4,4
+179,Aanya Sharma,Analyst,Jaipur,1-2,4,4
+180,Haritha Kulkarni,Senior Analyst,Pune,2-3,5,5
+181,Pratik Singh,Senior Analyst,Banglore,2-3,4,4
+182,Mansi Dhillon,Analyst,Banglore,0-1,4,3
+183,Abishek Menon,Analyst,Jaipur,0-1,4,4
+184,Lalit Gupta,Analyst,Banglore,1-2,5,5
+185,Nutan Khanna,Senior Analyst,Banglore,2-3,5,3.5
+186,Arushi Khanna,Senior Analyst,Jaipur,2-3,4,4
+187,Ravindra Kaur,Senior Associate,Banglore,4-5,5,5
+188,Amrita Khanna,Analyst,Jaipur,0-1,5,5
+189,Neela Bhatia,Senior Analyst,Banglore,2-3,5,5
+190,Rajni Iyer,Associate,Banglore,4-5,4,3
+191,Rajiv Nair,Associate,Banglore,4-5,5,5
+192,Ratan Banerjee,Senior Associate,Banglore,4-5,5,5
+193,Ishani Kapoor,Associate,Pune,3-4,5,5
+194,Keshav Sinha,Analyst,Banglore,1-2,5,3
+195,Priti Kulkarni,Associate,Banglore,3-4,5,5
+196,Karan Reddy,Analyst,Banglore,0-1,4,4
+197,Bhavin Joshi,Senior Analyst,Jaipur,2-3,4,4
+198,Ashish Pillai,Senior Analyst,Jaipur,2-3,5,5
+199,Ankita Kaur,Analyst,Jaipur,0-1,4,4
+200,Naresh Rao,Analyst,Banglore,1-2,5,5
+201,Raghu Patel,Associate,Banglore,3-4,4,4
+202,Gayatri Verma,Analyst,Pune,1-2,5,5
+203,Indrani Verma,Associate,Pune,4-5,5,3
+204,Rhea Sharma,Senior Associate,Banglore,6-7,5,5
+205,Anurag Kumar,Analyst,Jaipur,0-1,4,4
+206,Atharv Rao,Senior Analyst,Jaipur,2-3,4,3
+207,Rachana Gupta,Associate,Banglore,3-4,5,2
+208,Alok Singh,Analyst,Jaipur,1-2,4,4
+209,Ishaan Reddy,Associate,Pune,4-5,5,5
+210,Harsha Pillai,Senior Analyst,Pune,2-3,5,3
+211,Deepa Reddy,Senir Associate,Jaipur,,5,5
+212,Priya Pillai,Associate,Banglore,4-5,5,5
+213,Nitin Iyer,Senior Analyst,Banglore,2-3,4,4
+214,Lakshmi Mehta,Analyst,Banglore,0-1,4,4
+215,Prutha Banerjee,Associate,Banglore,4-5,5,5
+216,Kamal Verma,Analyst,Banglore,0-1,5,5
+217,Madhav Kapoor,Analyst,Banglore,0-1,5,5
+218,Ankit Bhatia,Analyst,Jaipur,1-2,4,4
+219,Bijay Khanna,Associate,Jaipur,3-4,5,5
+220,Kshitij Bhatia,Analyst,Banglore,1-2,5,5
+221,Nandini Chowdhury,Analyst,Banglore,1-2,5,5
+222,Ayaan Gupta,Senior Analyst,Jaipur,2-3,5,5
+223,Pratima Reddy,Senior Analyst,Banglore,2-3,5,3.5
+224,Pankaj Chowdhury,Senior Analyst,Banglore,2-3,5,5
+225,Madhu Joshi,Analyst,Banglore,1-2,5,5
+226,Mahima Menon,Analyst,Banglore,0-1,4,4
+227,Deepika Nair,Senir Associate,Jaipur,,5,5
+228,Amit Nair,Analyst,Jaipur,1-2,4,4
+229,Geetanjali Singh,Analyst,Pune,0-1,4,4
+230,Puneet Rao,Associate,Banglore,3-4,5,5
+231,Kedar Khanna,Analyst,Banglore,0-1,4,4
+232,Bhavna Nair,Senior Analyst,Jaipur,2-3,5,5
+233,Mukul Menon,Analyst,Banglore,0-1,4,4
+234,Bikram Sinha,Associate,Jaipur,4-5,4,4
+235,Amita Iyer,Analyst,Jaipur,0-1,4,4
+236,Amar Kapoor,Analyst,Jaipur,1-2,4,4
+237,Aishwarya Rao,Analyst,Jaipur,1-2,4,4
+238,Bhavya Iyer,Senior Analyst,Jaipur,2-3,4,4
+239,Ajeet Kaur,Analyst,Jaipur,1-2,4,4
+240,Kavita Iyer,Analyst,Banglore,0-1,5,5
+241,Preity Iyer,Senior Analyst,Banglore,1-2,4,4
+242,Avni Mehta,Senior Analyst,Jaipur,2-3,4,4
+243,Abhiram Iyer,Analyst,Jaipur,1-2,4,4
+244,Narain Banerjee,Analyst,Banglore,0-1,4,3
+245,Asha Kulkarni,Senior Analyst,Jaipur,2-3,5,5
+246,Deepak Kapoor,Senir Associate,Jaipur,,4,4
+247,Abhinav Joshi,Analyst,Jaipur,0-1,4,4
+248,Advaita Kulkarni,Analyst,Jaipur,1-2,4,4
+249,Ananya Kulkarni,Analyst,Jaipur,0-1,4,4
+250,Hemant Rao,Senior Analyst,Pune,2-3,4,4
+251,Chetan Dhillon,Associate,Jaipur,3-4,5,5
+252,Dhairya Khanna,Senir Associate,Jaipur,,4,4
+253,Pavan Bhatia,Senior Analyst,Banglore,2-3,4,3
+254,Areen Kapoor,Analyst,Jaipur,0-1,4,4
+255,Kabir Dhillon,Analyst,Banglore,0-1,4,3
+256,Parul Banerjee,Senior Analyst,Banglore,2-3,4,4
+257,Ila Sharma,Senior Analyst,Pune,2-3,5,5
+258,Manjeet Bhatia,Analyst,Banglore,0-1,5,5
+259,Aakash Patel,Analyst,Jaipur,0-1,5,5
+260,Rekha Mehta,Senior Associate,Banglore,6-7,4,4
+261,Prachi Sharma,Senior Analyst,Banglore,2-3,4,4
+262,Rashi Pillai,Senior Associate,Banglore,5-6,4,4
+263,Aditya Sinha,Analyst,Jaipur,0-1,5,5
+264,Avani Kaur,Senior Analyst,Jaipur,2-3,5,5
+265,Padma Kulkarni,Senior Analyst,Banglore,2-3,4,4
+266,Aarav Gupta,Analyst,Jaipur,0-1,5,5
+267,Harish Sinha,Analyst,Pune,0-1,4,4
+268,Karthik Kapoor,Analyst,Banglore,1-2,5,5
+269,Maruti Mehta,Analyst,Banglore,1-2,4,4
+270,Fathima Sharma,Analyst,Pune,0-1,4,4
+271,Nitara Joshi,Senior Analyst,Banglore,2-3,4,4
+272,Nikhil Gupta,Senior Analyst,Banglore,2-3,5,5
+273,Darshan Singh,Manager,Jaipur,8-9,4,4
+274,Purab Kaur,Associate,Banglore,2-3,5,5
+275,Jaya Sinha,Analyst,Banglore,1-2,5,5
+276,Jayanti Pillai,Analyst,Banglore,1-2,4,4
+277,Gautam Patel,Analyst,Pune,1-2,5,5
+278,Manas Sinha,Analyst,Banglore,0-1,4,3
+279,Lavanya Patel,Analyst,Banglore,1-2,5,5
+280,Brinda Banerjee,Associate,Jaipur,4-5,5,5
+281,Arundhati Menon,Senior Analyst,Jaipur,2-3,5,5
+282,Advika Pillai,Analyst,Jaipur,0-1,4,4
+283,Akshara Patel,Analyst,Jaipur,0-1,5,5
+284,Anuradha Patel,Analyst,Jaipur,1-2,5,5
+285,Chaitanya Rao,Associate,Jaipur,3-4,5,5
+286,Nisha Singh,Senior Analyst,Banglore,2-3,5,5
+287,Neelam Kaur,Senior Analyst,Banglore,2-3,5,5
+288,Jhanvi Banerjee,Analyst,Banglore,1-2,4,4
+289,Aravind Singh,Analyst,Jaipur,0-1,4,4
+290,Jaidev Khanna,Manager,Pune,8-9,5,5
+291,Chirag Sharma,Associate,Jaipur,4-5,4,4
+292,Dhanush Sinha,Senir Associate,Jaipur,,5,5
+293,Mitali Reddy,Analyst,Banglore,1-2,4,4
+294,Ketaki Kulkarni,Analyst,Banglore,0-1,5,5
+295,Jahnavi Iyer,Senior Associate,Pune,5-6,5,5
+296,Pradnya Patel,Senior Analyst,Banglore,2-3,5,5
+297,Khushi Chowdhury,Analyst,Banglore,0-1,4,4
+298,Preethi Nair,Senior Analyst,Banglore,2-3,4,4
+299,Pushpa Mehta,Associate,Banglore,4-5,4,4
+300,Ajay Bhatia,Analyst,Jaipur,0-1,5,5
